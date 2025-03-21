@@ -13,3 +13,5 @@
 
 [Ветки и слияния](branching.md)  
 [Дополнительные функции Git](advanced-features.md)
+
+![Команды](images/command.jpg)
